@@ -3,7 +3,7 @@
 #  ✩ ₊˚ Valenriquez ✩ ₊˚ 
  **`Proggramer and Digital Creator (she/her)`**
 
-I'm a programmer and technology content creator. I´m interested on competetive programming, software architecture and virtual reality. I´m planning on solving real-life problems with programming and software development and becoming an indie developer someday. ˙✧˖°📷 ༘ ⋆｡˚
+I'm a programmer.  I´m interested on competetive programming, software architecture and virtual reality. I´m planning on solving real-life problems with programming and software development and becoming an indie developer someday. ˙✧˖°📷 ༘ ⋆｡˚
 
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DFA6F7&random=false&width=435&lines=Social+Media" alt="Typing SVG" /></a>
