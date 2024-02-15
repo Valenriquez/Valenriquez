@@ -40,7 +40,7 @@ I'm a programmer.  I´m interested on competetive programming, software architec
 
 
           へ   ♡   ╱|、
-     ૮  -   ՛ )      (`   -  7        // See ya later!
+     ૮  -   ՛ )      (`   -  7        // :D!
        /   ⁻  ៸|       |、⁻〵
      乀 (ˍ, ل ل      じしˍ,)ノ
  
