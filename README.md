@@ -1,10 +1,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F735EA&random=false&width=435&lines=Welcome%2C+let+me+introduce+myself+%3A)" alt="Typing SVG" /></a>
 
 #  ✩ ₊˚ Valenriquez ✩ ₊˚ 
- **`Proggramer and Digital Creator (she/her)`**
+ **`Proggramer and (maybe) future Digital Creator (she/her)`**
 
-I'm a programmer.  I´m interested on competetive programming, software architecture and virtual reality. I´m planning on solving real-life problems with programming and software development and becoming an indie developer someday. ˙✧˖°📷 ༘ ⋆｡˚
-
+I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solving real-life problems with programming and software development and becoming an indie developer someday. ˙✧˖°📷 ༘ ⋆｡˚
+ ✩ I´ve experience with software development, competetive programming, software architecture and virtual reality
+ ✩ I´ve participated on Hackatons, ICPC (competitive programming) and FEM coding iOS challenges ✩ ₊˚ 
+ ✩ I love creating new things with software :P and improving my creativity with UI and UX Design
+ ✩ My favorite subject have always been: programming, design, maths and literature classes  ✩ ₊˚ 
+ 
+ ✩ 
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DFA6F7&random=false&width=435&lines=Social+Media" alt="Typing SVG" /></a>
 
