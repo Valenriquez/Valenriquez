@@ -11,7 +11,7 @@ I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solv
  <br/>
  ✩ I love creating new things with software :P and improving my creativity with UI and UX Design
  <br/>
- ✩ My favorite subject have always been: programming, design, maths and literature classes  ✩ ₊˚ 
+ ✩ My favorite subjects have always been: programming, design, maths and literature classes  ✩ ₊˚ 
  <br/>
  
  ✩ 
