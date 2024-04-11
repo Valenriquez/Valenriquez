@@ -3,7 +3,7 @@
 #  ✩ ₊˚ Valenriquez ✩ ₊˚ 
  **`Proggramer and (maybe) future Digital Creator (she/her)`**
 
-I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solving real-life problems with programming and software development and becoming an indie developer someday. ˙✧˖°📷 ༘ ⋆｡˚
+I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solving real-life problems with programming and software development ˙✧˖°📷 ༘ ⋆｡˚
 <br/>
  ✩ I´ve experience with software development, competetive programming, software architecture and virtual reality
  <br/>
