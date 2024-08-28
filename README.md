@@ -9,8 +9,6 @@ I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solv
  <br/>
  ✩ I´ve participated on Hackatons, ICPC (competitive programming) and FEM coding iOS challenges ✩ ₊˚ 
  <br/>
- ✩ I love creating new things with software :P and improving my creativity with UI and UX Design
- <br/>
  ✩ My favorite subjects have always been: programming, design, maths and literature classes  ✩ ₊˚ 
  <br/>
  
