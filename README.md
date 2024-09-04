@@ -11,6 +11,8 @@ I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solv
  <br/>
  ✩ My favorite subjects have always been: programming, design, maths and literature classes  ✩ ₊˚ 
  <br/>
+  ✩ Fun Fact: I LOOOOVEEE books, films and excercising  ✩ ₊˚ 
+ <br/>
  
  ✩ 
 <br/>
