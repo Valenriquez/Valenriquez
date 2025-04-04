@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F735EA&random=false&width=435&lines=Welcome%2C+let+me+introduce+myself+%3A)" alt="Typing SVG" /></a>
 
-#  ✩ ₊˚ Valenriquez ✩ ₊˚ 
- **`Proggramer and (maybe) future Digital Creator (she/her)`**
+#  ✩ ₊˚ Valenriquez ✩ ₊˚ (she/her) ₊˚
+ **`Programer and (maybe) future Digital Creator `**
 
 I'm a programmer.  I´m interested on lots of CS topics :) I´m planning on solving real-life problems with programming and software development ˙✧˖°📷 ༘ ⋆｡˚
 <br/>
